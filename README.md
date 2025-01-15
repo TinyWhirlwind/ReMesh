@@ -1,3 +1,4 @@
+目前调的vcg的接口
 狭长面片退化面片的判断
 ![img](image/theory.png)
 局部自动remesh前后对比
